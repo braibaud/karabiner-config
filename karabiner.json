@@ -911,7 +911,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "arrow",
+                                        "key_code": "left_arrow",
                                         "modifiers": [
                                             "command"
                                         ]
@@ -949,7 +949,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "arrow",
+                                        "key_code": "left_arrow",
                                         "modifiers": [
                                             "command",
                                             "shift"
@@ -1604,7 +1604,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "arrow",
+                                    "key_code": "left_arrow",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -1616,7 +1616,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "arrow",
+                                        "key_code": "left_arrow",
                                         "modifiers": [
                                             "option"
                                         ]
@@ -1699,7 +1699,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "arrow",
+                                    "key_code": "left_arrow",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -1711,7 +1711,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "arrow",
+                                        "key_code": "left_arrow",
                                         "modifiers": [
                                             "option",
                                             "control"
@@ -1794,7 +1794,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "arrow",
+                                    "key_code": "left_arrow",
                                     "modifiers": {
                                         "mandatory": [
                                             "command"
@@ -1806,7 +1806,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "arrow",
+                                        "key_code": "left_arrow",
                                         "modifiers": [
                                             "option"
                                         ]
