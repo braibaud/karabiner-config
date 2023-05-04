@@ -763,7 +763,7 @@
                         ]
                     },
                     {
-                        "description": "Ctrl+H => Cmd+Opt+F (Find & Replace) (Except in VSCode)",
+                        "description": "Ctrl+H => Cmd+Opt+F (Find & Replace)",
                         "manipulators": [
                             {
                                 "conditions": [
@@ -799,8 +799,7 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$",
-                                            "^com\\.microsoft\\.VSCode$"
+                                            "^tv\\.parsec\\.www$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
